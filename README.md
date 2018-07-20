@@ -1,2 +1,2 @@
 # progressive
-App prograsiva de Gerardo
+App progresiva de Gerardo
